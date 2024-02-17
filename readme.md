@@ -25,6 +25,11 @@ This repository contains C++ code implementations for various interest rate mode
 6. **Chan–Karolyi–Longstaff–Sanders (CKLS) Model**
    - Description: The CKLS model is a parametrized interest rate model designed to account for nonconstant volatilities.
    - Code: [ckls_model.cpp](CKLS.cpp)
+   - 
+7. **Heath–Jarrow–Morton (HJM) Model**
+   - Description: The HJM model represents the instantaneous forward rate with a stochastic differential equation, allowing for a multi-factor term structure model.
+   - Code: [hjm_model.cpp](HJM.cpp)
+
 
 ## Usage
 
