@@ -35,4 +35,4 @@ Each model has its own C++ file in the repository. To use a specific model, you 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/interest-rate-models-cpp.git
+git clone https://github.com/AIM-IT4/interest-rate-models-cpp.git
